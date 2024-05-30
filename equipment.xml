@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipments>
+    <equipments>
+        <id>1</id>
+        <name>Găng tay</name>
+        <NSX>06/05/2023</NSX>
+        <HSD>02/05/2025</HSD>
+        <Source>Việt Nam</Source>
+        <bill>54563</bill>
+        <set>354526</set>
+        <number>350</number>
+        <price>60.0</price>
+    </equipments>
+    <equipments>
+        <id>3</id>
+        <name>Kim tiêm</name>
+        <NSX>05/05/2023</NSX>
+        <HSD>01/05/2025</HSD>
+        <Source>Việt Nam</Source>
+        <bill>4rt3wrwe</bill>
+        <set>rtyewrw</set>
+        <number>155</number>
+        <price>25.0</price>
+    </equipments>
+    <equipments>
+        <id>4</id>
+        <name>Kéo cắt chỉ</name>
+        <NSX>13/05/2017</NSX>
+        <HSD>07/05/2027</HSD>
+        <Source></Source>
+        <bill></bill>
+        <set></set>
+        <number>233</number>
+        <price>76.0</price>
+    </equipments>
+    <equipments>
+        <id>5</id>
+        <name>Dao mổ</name>
+        <NSX>07/06/2022</NSX>
+        <HSD>02/05/2026</HSD>
+        <Source>Việt Nam</Source>
+        <bill>adas</bill>
+        <set>fsgsff</set>
+        <number>84</number>
+        <price>534.0</price>
+    </equipments>
+    <equipments>
+        <id>6</id>
+        <name>Máy điện tim</name>
+        <NSX>03/03/2022</NSX>
+        <HSD>17/07/2025</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill></bill>
+        <set></set>
+        <number>43</number>
+        <price>200000.0</price>
+    </equipments>
+    <equipments>
+        <id>8</id>
+        <name>Vật tư 1</name>
+        <NSX>20/03/2024</NSX>
+        <HSD>11/06/2025</HSD>
+        <Source></Source>
+        <bill></bill>
+        <set></set>
+        <number>1123</number>
+        <price>23.0</price>
+    </equipments>
+    <equipments>
+        <id>9</id>
+        <name>Vật tư 2</name>
+        <NSX>12/03/2024</NSX>
+        <HSD>08/05/2029</HSD>
+        <Source></Source>
+        <bill></bill>
+        <set>124fwd</set>
+        <number>32</number>
+        <price>32234.0</price>
+    </equipments>
+    <equipments>
+        <id>10</id>
+        <name>Vật tư 3</name>
+        <NSX>13/07/2022</NSX>
+        <HSD>24/03/2026</HSD>
+        <Source></Source>
+        <bill>dsfds</bill>
+        <set></set>
+        <number>74</number>
+        <price>4233.0</price>
+    </equipments>
+    <equipments>
+        <id>11</id>
+        <name>Vật tư 4</name>
+        <NSX>27/05/2021</NSX>
+        <HSD>10/03/2026</HSD>
+        <Source>Việt Nam</Source>
+        <bill></bill>
+        <set></set>
+        <number>432</number>
+        <price>32131.0</price>
+    </equipments>
+    <equipments>
+        <id>12</id>
+        <name>Vật tư 5</name>
+        <NSX>12/03/2024</NSX>
+        <HSD>11/06/2031</HSD>
+        <Source></Source>
+        <bill>131dqa</bill>
+        <set>32rewr</set>
+        <number>112</number>
+        <price>125.0</price>
+    </equipments>
+    <equipments>
+        <id>13</id>
+        <name>Vật tư 6</name>
+        <NSX>14/09/2021</NSX>
+        <HSD>08/03/2028</HSD>
+        <Source></Source>
+        <bill></bill>
+        <set>rft54t</set>
+        <number>9</number>
+        <price>1221.0</price>
+    </equipments>
+</equipments>

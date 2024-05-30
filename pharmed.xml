@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pharmeds>
+    <pharmed>
+        <id>1</id>
+        <name>Thuốc đau bụng</name>
+        <NSX>05/05/2023</NSX>
+        <HSD>30/05/2025</HSD>
+        <Source>Việt Nam</Source>
+        <bill>dsadsad</bill>
+        <set>cdsfds</set>
+        <number>100</number>
+        <price>10.0</price>
+    </pharmed>
+    <pharmed>
+        <id>2</id>
+        <name>Thuốc đau đầu</name>
+        <NSX>08/05/2024</NSX>
+        <HSD>22/05/2026</HSD>
+        <Source>Thái Lan</Source>
+        <bill>1312321</bill>
+        <set>dddd</set>
+        <number>150</number>
+        <price>12.0</price>
+    </pharmed>
+    <pharmed>
+        <id>3</id>
+        <name>Thuốc trợ tim</name>
+        <NSX>11/04/2024</NSX>
+        <HSD>06/11/2024</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill>1312431</bill>
+        <set>1232</set>
+        <number>120</number>
+        <price>53.0</price>
+    </pharmed>
+    <pharmed>
+        <id>4</id>
+        <name>Thuốc giảm đau hạ sốt</name>
+        <NSX>10/04/2024</NSX>
+        <HSD>08/10/2026</HSD>
+        <Source>Việt Nam</Source>
+        <bill>đasda</bill>
+        <set>sdsdqsd</set>
+        <number>55</number>
+        <price>32.0</price>
+    </pharmed>
+    <pharmed>
+        <id>5</id>
+        <name>Thuốc kháng virus</name>
+        <NSX>08/02/2024</NSX>
+        <HSD>28/11/2024</HSD>
+        <Source>Úc</Source>
+        <bill>sdfsdfsdf</bill>
+        <set>dfsđf</set>
+        <number>520</number>
+        <price>45.0</price>
+    </pharmed>
+    <pharmed>
+        <id>6</id>
+        <name>Thuốc ho và long đờm</name>
+        <NSX>19/03/2024</NSX>
+        <HSD>21/10/2025</HSD>
+        <Source>Việt Nam</Source>
+        <bill>ưerew</bill>
+        <set></set>
+        <number>200</number>
+        <price>20.0</price>
+    </pharmed>
+    <pharmed>
+        <id>7</id>
+        <name>Thuốc 1</name>
+        <NSX>16/04/2024</NSX>
+        <HSD>15/05/2026</HSD>
+        <Source>Việt Nam</Source>
+        <bill>1231</bill>
+        <set>35324</set>
+        <number>100</number>
+        <price>45.0</price>
+    </pharmed>
+    <pharmed>
+        <id>8</id>
+        <name>Thuốc 2</name>
+        <NSX>15/04/2024</NSX>
+        <HSD>14/08/2024</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill>qeqw</bill>
+        <set>eqqew</set>
+        <number>300</number>
+        <price>231.0</price>
+    </pharmed>
+    <pharmed>
+        <id>9</id>
+        <name>Thuốc máu</name>
+        <NSX>10/05/2024</NSX>
+        <HSD>15/05/2026</HSD>
+        <Source>Mỹ</Source>
+        <bill></bill>
+        <set></set>
+        <number>100</number>
+        <price>63.0</price>
+    </pharmed>
+    <pharmed>
+        <id>11</id>
+        <name>Thuốc Bắc</name>
+        <NSX>08/05/2020</NSX>
+        <HSD>15/05/2026</HSD>
+        <Source>Trung Quốc</Source>
+        <bill>634ry</bill>
+        <set></set>
+        <number>12</number>
+        <price>345.0</price>
+    </pharmed>
+    <pharmed>
+        <id>12</id>
+        <name>Thuốc trĩ</name>
+        <NSX>30/05/2024</NSX>
+        <HSD>19/05/2034</HSD>
+        <Source></Source>
+        <bill></bill>
+        <set></set>
+        <number>54</number>
+        <price>123.0</price>
+    </pharmed>
+    <pharmed>
+        <id>13</id>
+        <name>Thuốc nhỏ mắt</name>
+        <NSX>16/05/2014</NSX>
+        <HSD>03/05/2025</HSD>
+        <Source>Nhật bản</Source>
+        <bill>6v72253</bill>
+        <set>326te</set>
+        <number>12</number>
+        <price>345.0</price>
+    </pharmed>
+    <pharmed>
+        <id>14</id>
+        <name>Astra Zennace</name>
+        <NSX>03/05/2024</NSX>
+        <HSD>16/05/2026</HSD>
+        <Source>Bỉ</Source>
+        <bill>64tweyui79</bill>
+        <set>788uth</set>
+        <number>65</number>
+        <price>245.0</price>
+    </pharmed>
+    <pharmed>
+        <id>15</id>
+        <name>Toboku</name>
+        <NSX>11/05/2024</NSX>
+        <HSD>15/05/2026</HSD>
+        <Source>Ấn Độ</Source>
+        <bill>65yr</bill>
+        <set>r3wteytu</set>
+        <number>43</number>
+        <price>500.0</price>
+    </pharmed>
+    <pharmed>
+        <id>17</id>
+        <name>Thuốc 8</name>
+        <NSX>16/05/2024</NSX>
+        <HSD>19/05/2028</HSD>
+        <Source>egldhjhkt</Source>
+        <bill></bill>
+        <set></set>
+        <number>12</number>
+        <price>154.0</price>
+    </pharmed>
+    <pharmed>
+        <id>18</id>
+        <name>Thuốc 9</name>
+        <NSX>17/05/2024</NSX>
+        <HSD>19/05/2028</HSD>
+        <Source>dfghg5</Source>
+        <bill>ưqeqrt5y</bill>
+        <set>t65yrg</set>
+        <number>23</number>
+        <price>5.0</price>
+    </pharmed>
+    <pharmed>
+        <id>19</id>
+        <name>Thuốc 36</name>
+        <NSX>17/05/2024</NSX>
+        <HSD>07/05/2032</HSD>
+        <Source>dsafdgfhu664</Source>
+        <bill></bill>
+        <set>54re</set>
+        <number>34</number>
+        <price>48.0</price>
+    </pharmed>
+</pharmeds>
