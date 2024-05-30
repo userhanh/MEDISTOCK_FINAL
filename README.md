@@ -49,7 +49,7 @@
 
 #### Với file jar:
 
-Click chuột vào file **App** để mở ứng dụng
+Click chuột vào file **App** để mở ứng dụng<br>
 ![Run](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/1.jpg)
 
 #### Với mã nguồn:
@@ -64,7 +64,7 @@ Click chuột vào file **App** để mở ứng dụng
 Đăng nhập vào ứng dụng:
 
 - username: 'a'
-- password: 'a'
+- password: 'a'<br>
   ![Login](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/2.jpg)
 - Đăng nhập thành công khi đúng tài khoản và mật khẩu trên, mở vào giao diện ứng dụng
 
@@ -85,53 +85,53 @@ Click chuột vào file **App** để mở ứng dụng
 
 ![Home](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/3.jpg)
 
-- Click vào các hàng của bảng để trích thông tin ra bảng
+- Click vào các hàng của bảng để trích thông tin ra bảng<br>
   ![Interact](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/8.jpg)
 
 #### Demo Tính năng tìm kiếm
 
-- Tìm kiếm chính xác: Nhập trường tìm kiếm và nhấn nút "Tìm"
-  ![Search1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/4.jpg)
-  ![Search2](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/5.jpg)
-- Tìm kiếm theo đoạn:
-  ![Search3](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/6.jpg)
-  ![Search4](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/7.jpg)
+- Tìm kiếm chính xác: Nhập trường tìm kiếm và nhấn nút "Tìm"<br>
+  ![Search1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/4.jpg)<br>
+  ![Search2](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/5.jpg)<br>
+- Tìm kiếm theo đoạn:<br>
+  ![Search3](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/6.jpg)<br>
+  ![Search4](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/7.jpg)<br>
 
 #### Demo Chức năng thêm thuốc hoặc vật tư y tế
 
-- Nhập các trường thông tin bắt buộc, các trường khác có thể nhập hoặc không
+- Nhập các trường thông tin bắt buộc, các trường khác có thể nhập hoặc không<br>
   ![Add](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/9.jpg)
 - Yêu cầu: các trường thông tin phải hợp lệ, nếu không sẽ hiện ra thông báo, yêu cầu sửa lại
-- Lựa chọn thêm thuốc hoặc vật tư y tế:
+- Lựa chọn thêm thuốc hoặc vật tư y tế:<br>
   ![Choose1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/12.jpg)
-- Nếu thỏa mãn tất cả các điều kiện sẽ hiện thông báo thành công, và thuốc sẽ được hiển thị ở bảng
-  ![Validate](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/10.jpg)
+- Nếu thỏa mãn tất cả các điều kiện sẽ hiện thông báo thành công, và thuốc sẽ được hiển thị ở bảng<br>
+  ![Validate](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/10.jpg)<br>
   ![Validate](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/11.jpg)
 
 #### Demo Tính năng sửa thông tin
 
 - Click chọn hàng trong danh sách
-- Thay đổi thông tin hiện ra ở các trường
-  ![Edit](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/13.jpg)
+- Thay đổi thông tin hiện ra ở các trường<br>
+  ![Edit](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/13.jpg)<br>
 - Thông báo hiển thị thành công ứng với từng loại thay đổi (thuốc/vật tư y tế)
-  ![EditOK](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/14.jpg)
-  ![EditOK](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/15.jpg)
+  ![EditOK](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/14.jpg)<br>
+  ![EditOK](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/15.jpg)<br>
 
 #### Demo tính năng xuất kho
 
-- Click chọn mặt hàng cần xuất
-  ![Exporting1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/17.jpg)
-- Click nút xuất
-  ![Exporting1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/18.jpg)
-- Thông tin về mặt hàng đã xuất sẽ hiển thị ở tab xuất kho
-  ![Exported](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/19.jpg)
+- Click chọn mặt hàng cần xuất<br>
+  ![Exporting1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/17.jpg)<br>
+- Click nút xuất<br>
+  ![Exporting1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/18.jpg)<br>
+- Thông tin về mặt hàng đã xuất sẽ hiển thị ở tab xuất kho<br>
+  ![Exported](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/19.jpg)<br>
 
 ### Tab xuất kho
 
-- Khi chưa xuất kho tab hiển thị thông tin rỗng
-  ![NoExport](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/16.jpg)
-- Khi đã xuất kho sẽ hiển thị thông tin về sản phẩm đã xuất với các trường: tên sản phẩm, loại sản phẩm, thời gian xuất, số lượng xuất, tổng hóa đơn khi xuất (giá trị mỗi sản phẩm \* số lượng)
-  ![Exported](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/20.jpg)
+- Khi chưa xuất kho tab hiển thị thông tin rỗng<br>
+  ![NoExport](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/16.jpg)<br>
+- Khi đã xuất kho sẽ hiển thị thông tin về sản phẩm đã xuất với các trường: tên sản phẩm, loại sản phẩm, thời gian xuất, số lượng xuất, tổng hóa đơn khi xuất (giá trị mỗi sản phẩm \* số lượng)<br>
+  ![Exported](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/20.jpg)<br>
 - Tính năng thống kê xuất kho:
   - Tổng số thuốc đã xuất, tổng số vật tư y tế đã xuất, tổng số sản phẩm đã xuất
   - Tổng tiền thuốc đã xuất, tổng tiền vật tư y tế đã xuất, tổng số tiền đã xuất được
@@ -140,20 +140,20 @@ Click chuột vào file **App** để mở ứng dụng
 
 #### Có 06 biểu đồ về thống kê
 
-![Chart](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/27.jpg)
+![Chart](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/27.jpg)<br>
 
-- Biểu đồ thống kê số lượng thuốc theo tầm giá
-  ![Chart1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/21.jpg)
-- Biểu đồ thống kê số lượng vật tư y tế theo tầm giá
-  ![Chart2](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/22.jpg)
-- Biểu đồ thống kê số lượng sản phẩm thuốc
-  ![Chart3](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/24.jpg)
-- Biểu đồ thống kê số lượng sản phẩm vật tư y tế
-  ![Chart4](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/23.jpg)
-- Biểu đồ thống kê số thuốc và vật tư y tế đã xuất
-  ![Chart5](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/25.jpg)
-- Biểu đồ thống kê tiền thuốc và vật y tế đã xuất
-  ![Chart6](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/26.jpg)
+- Biểu đồ thống kê số lượng thuốc theo tầm giá<br>
+  ![Chart1](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/21.jpg)<br>
+- Biểu đồ thống kê số lượng vật tư y tế theo tầm giá<br>
+  ![Chart2](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/22.jpg)<br>
+- Biểu đồ thống kê số lượng sản phẩm thuốc<br>
+  ![Chart3](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/24.jpg)<br>
+- Biểu đồ thống kê số lượng sản phẩm vật tư y tế<br>
+  ![Chart4](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/23.jpg)<br>
+- Biểu đồ thống kê số thuốc và vật tư y tế đã xuất<br>
+  ![Chart5](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/25.jpg)<br>
+- Biểu đồ thống kê tiền thuốc và vật y tế đã xuất<br>
+  ![Chart6](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/26.jpg)<br>
 
 Các biểu đồ đảm bảo tương ứng được với dữ liệu được cập nhất (đã kiểm tra tính cập nhật nhất thời).
 
