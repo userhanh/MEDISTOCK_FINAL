@@ -113,7 +113,7 @@ Click chuột vào file **App** để mở ứng dụng<br>
 - Click chọn hàng trong danh sách
 - Thay đổi thông tin hiện ra ở các trường<br>
   ![Edit](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/13.jpg)<br>
-- Thông báo hiển thị thành công ứng với từng loại thay đổi (thuốc/vật tư y tế)
+- Thông báo hiển thị thành công ứng với từng loại thay đổi (thuốc/vật tư y tế)<br>
   ![EditOK](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/14.jpg)<br>
   ![EditOK](https://github.com/userhanh/MEDISTOCK_FINAL/blob/master/Images/15.jpg)<br>
 
