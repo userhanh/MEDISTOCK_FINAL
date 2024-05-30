@@ -26,7 +26,7 @@
 - Tìm kiếm thuốc trong kho:
   - Tìm kiếm chính xác các trường: ID, Tên sản phẩm, NSX, HSD, Nguồn nhập, số lô
   - Tìm kiếm trên đoạn các trường: Số lượng nhập, Giá sản phẩm, NSX, HSD
-- Thống kê:
+- Thống kê: cả trong kho và xuất kho
 - Thống kê và trực quan hóa dưới dạng biểu đồ
 
 ## Cài đặt:
